@@ -1,0 +1,5 @@
+/Volumes/2TB PROJECTS/*DEVELOPMENT/UDEMY/userInput/userInput/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Volumes/2TB PROJECTS/*DEVELOPMENT/UDEMY/userInput/userInput/bin/Debug/userInput.exe.mdb
+/Volumes/2TB PROJECTS/*DEVELOPMENT/UDEMY/userInput/userInput/bin/Debug/userInput.exe
+/Volumes/2TB PROJECTS/*DEVELOPMENT/UDEMY/userInput/userInput/obj/x86/Debug/userInput.exe
+/Volumes/2TB PROJECTS/*DEVELOPMENT/UDEMY/userInput/userInput/obj/x86/Debug/userInput.exe.mdb

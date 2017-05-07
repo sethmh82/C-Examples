@@ -1,0 +1,5 @@
+/Volumes/2TB PROJECTS/*DEVELOPMENT/UDEMY/helloworld/helloworld/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Volumes/2TB PROJECTS/*DEVELOPMENT/UDEMY/helloworld/helloworld/bin/Debug/helloworld.exe.mdb
+/Volumes/2TB PROJECTS/*DEVELOPMENT/UDEMY/helloworld/helloworld/bin/Debug/helloworld.exe
+/Volumes/2TB PROJECTS/*DEVELOPMENT/UDEMY/helloworld/helloworld/obj/x86/Debug/helloworld.exe
+/Volumes/2TB PROJECTS/*DEVELOPMENT/UDEMY/helloworld/helloworld/obj/x86/Debug/helloworld.exe.mdb

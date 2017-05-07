@@ -1,0 +1,5 @@
+/Volumes/2TB PROJECTS/*DEVELOPMENT/UDEMY/dataTypes/dataTypes/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Volumes/2TB PROJECTS/*DEVELOPMENT/UDEMY/dataTypes/dataTypes/bin/Debug/dataTypes.exe.mdb
+/Volumes/2TB PROJECTS/*DEVELOPMENT/UDEMY/dataTypes/dataTypes/bin/Debug/dataTypes.exe
+/Volumes/2TB PROJECTS/*DEVELOPMENT/UDEMY/dataTypes/dataTypes/obj/x86/Debug/dataTypes.exe
+/Volumes/2TB PROJECTS/*DEVELOPMENT/UDEMY/dataTypes/dataTypes/obj/x86/Debug/dataTypes.exe.mdb

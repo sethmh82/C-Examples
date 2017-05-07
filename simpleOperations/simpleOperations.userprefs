@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{53BAA995-3DED-49BF-8D1E-24F499425CF6}|Default">
+  <MonoDevelop.Ide.ItemProperties.simpleOperations PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="simpleOperations/Program.cs">
+    <Files>
+      <File FileName="simpleOperations/Program.cs" Line="52" Column="29" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

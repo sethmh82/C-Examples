@@ -1,0 +1,5 @@
+/Volumes/2TB PROJECTS/*DEVELOPMENT/UDEMY/CustomDataTypes/customDataTypes/customDataTypes/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Volumes/2TB PROJECTS/*DEVELOPMENT/UDEMY/CustomDataTypes/customDataTypes/customDataTypes/bin/Debug/customDataTypes.exe.mdb
+/Volumes/2TB PROJECTS/*DEVELOPMENT/UDEMY/CustomDataTypes/customDataTypes/customDataTypes/bin/Debug/customDataTypes.exe
+/Volumes/2TB PROJECTS/*DEVELOPMENT/UDEMY/CustomDataTypes/customDataTypes/customDataTypes/obj/x86/Debug/customDataTypes.exe
+/Volumes/2TB PROJECTS/*DEVELOPMENT/UDEMY/CustomDataTypes/customDataTypes/customDataTypes/obj/x86/Debug/customDataTypes.exe.mdb

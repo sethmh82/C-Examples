@@ -1,0 +1,5 @@
+/Volumes/2TB PROJECTS/*DEVELOPMENT/UDEMY/simpleOperations/simpleOperations/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Volumes/2TB PROJECTS/*DEVELOPMENT/UDEMY/simpleOperations/simpleOperations/bin/Debug/simpleOperations.exe.mdb
+/Volumes/2TB PROJECTS/*DEVELOPMENT/UDEMY/simpleOperations/simpleOperations/bin/Debug/simpleOperations.exe
+/Volumes/2TB PROJECTS/*DEVELOPMENT/UDEMY/simpleOperations/simpleOperations/obj/x86/Debug/simpleOperations.exe
+/Volumes/2TB PROJECTS/*DEVELOPMENT/UDEMY/simpleOperations/simpleOperations/obj/x86/Debug/simpleOperations.exe.mdb
