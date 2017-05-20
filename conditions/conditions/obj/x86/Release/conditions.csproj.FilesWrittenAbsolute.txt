@@ -1,0 +1,3 @@
+/Volumes/2TB PROJECTS/*DEVELOPMENT/UDEMY/conditions/conditions/obj/x86/Release/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Volumes/2TB PROJECTS/*DEVELOPMENT/UDEMY/conditions/conditions/bin/Release/conditions.exe
+/Volumes/2TB PROJECTS/*DEVELOPMENT/UDEMY/conditions/conditions/obj/x86/Release/conditions.exe

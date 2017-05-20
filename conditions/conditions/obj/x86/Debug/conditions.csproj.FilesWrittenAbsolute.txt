@@ -1,0 +1,5 @@
+/Volumes/2TB PROJECTS/*DEVELOPMENT/UDEMY/conditions/conditions/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Volumes/2TB PROJECTS/*DEVELOPMENT/UDEMY/conditions/conditions/bin/Debug/conditions.exe.mdb
+/Volumes/2TB PROJECTS/*DEVELOPMENT/UDEMY/conditions/conditions/bin/Debug/conditions.exe
+/Volumes/2TB PROJECTS/*DEVELOPMENT/UDEMY/conditions/conditions/obj/x86/Debug/conditions.exe
+/Volumes/2TB PROJECTS/*DEVELOPMENT/UDEMY/conditions/conditions/obj/x86/Debug/conditions.exe.mdb
